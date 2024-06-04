@@ -12,7 +12,7 @@ const Midsection = () => {
             <div className=' text-center m-6'>
                 <p className='text-gray-600 font-bold'>Hello, I'm</p>
                 <h1 className='md:text-6xl text-4xl font-bold'>Pratiyush</h1>
-                <h1 className='md:text-4xl text-3xl text-gray-400 text-center mx-auto mb-4'>
+                <h1 className='md:text-4xl text-3xl text-gray-400 text-center ml-12 mb-4'>
                     <ReactTyped 
                         strings={[
                             "Full-Stack Mern Developer",
