@@ -1,6 +1,6 @@
 import React from 'react'
 import { ReactTyped } from "react-typed";
-import portfolioimg from "../assets/portfolio5.jpg"
+import portfolioimg from "../assets/portfolio4.jpg"
 
 const Midsection = () => {
     return (
