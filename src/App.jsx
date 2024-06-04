@@ -8,7 +8,7 @@ import MyState from './context/MyState';
 
 const App = () => {
   return (
-    <>
+    <div className='w-full'>
     <MyState>
      <BrowserRouter>
      <Navbar/>
@@ -19,7 +19,7 @@ const App = () => {
       </Routes>
     </BrowserRouter>
     </MyState>
-    </>
+    </div>
   )
 }
 
