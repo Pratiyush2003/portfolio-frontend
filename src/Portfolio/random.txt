@@ -1,0 +1,92 @@
+lXJOsjjeX6fgANRH
+
+<div className="flex items-center justify-evenly p-4 rounded shadow-md hover:shadow-lg">
+            <img
+              src="https://freeiconshop.com/wp-content/uploads/edd/html-flat.png"
+              alt=""
+              className="h-16"
+            />
+            <div>
+              <p className="text-center font-bold hidden sm:inline">HTML</p>
+            </div>
+          </div>;
+        
+        <div className="flex items-center justify-evenly p-4 rounded shadow-md hover:shadow-lg">
+                <img src="https://icons.iconarchive.com/icons/martz90/hex/512/css-3-icon.png" alt="" className="h-16 " />
+                <div>
+                <p className="text-center font-bold hidden sm:inline">CSS</p>
+                </div>
+        </div>
+
+        <div className="flex items-center justify-evenly p-4 rounded shadow-md hover:shadow-lg">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="" className="h-16 " />
+                <div>
+                <p className="text-center font-bold hidden sm:inline">JAVASCRIPT</p>
+                </div>
+        </div>
+
+        <div className="flex items-center justify-evenly p-4 rounded shadow-md hover:shadow-lg">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcBiBI248rgjtRfFgxc8WapC-w7npSGPi6GnV1_VUMww&s" alt="" className="h-16 " />
+                <div>
+                <p className="text-center font-bold hidden sm:inline">REACT JS</p>
+                </div>
+        </div>
+        
+        <div className="flex items-center justify-evenly p-4 rounded shadow-md hover:shadow-lg">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHqH23TDSFbOukJsb-Q5dksKRMLyuRwTEWZL9zlxqbcQ&s" alt="" className="h-16 " />
+                <div>
+                <p className="text-center font-bold hidden sm:inline">REDUX TOOLKIT</p>
+                </div>
+        </div>
+        
+        <div className="flex items-center justify-evenly p-4 rounded shadow-md hover:shadow-lg">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX9fZzRj7BuQAtuf6RSuqIjWEaai2Vl7sFq2Y6tKq5hA&s" alt="" className="h-16 " />
+                <div>
+                <p className="text-center font-bold hidden sm:inline">TAILWIND</p>
+                </div>
+        </div>
+        
+        <div className="flex items-center justify-evenly p-4 rounded shadow-md hover:shadow-lg">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/640px-Bootstrap_logo.svg.png" alt="" className="h-16 " />
+                <div>
+                <p className="text-center font-bold hidden sm:inline">BOOTSTRAP</p>
+                </div>
+        </div>
+        
+        <div className="flex items-center justify-evenly p-4 rounded shadow-md hover:shadow-lg">
+                <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="" className="h-16 " />
+                <div>
+                <p className="text-center font-bold hidden sm:inline">NEXT JS</p>
+                </div>
+        </div>
+
+        <div className="flex items-center justify-evenly p-4 rounded shadow-md hover:shadow-lg">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbzLeVd0WkVlNkDrQfX_cpxzHcRk2NFBtojNQU2alSwA&s" alt="" className="h-16 " />
+                <div>
+                <p className="text-center font-bold hidden sm:inline">NODE JS</p>
+                </div>
+        </div>
+        <div className="flex items-center justify-evenly p-4 rounded shadow-md hover:shadow-lg">
+                <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="" className="h-16 " />
+                <div>
+                <p className="text-center font-bold hidden sm:inline">EXPRESS JS</p>
+                </div>
+        </div>
+        <div className="flex items-center justify-evenly p-4 rounded shadow-md hover:shadow-lg">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQehj_TQZOfp4t-1r8ZMaCTapecqoHJvKVBAr8muBRXIQ&s" alt="" className="h-16 " />
+                <div>
+                <p className="text-center font-bold hidden sm:inline">MONGO DB</p>
+                </div>
+        </div>
+        <div className="flex items-center justify-evenly p-4 rounded shadow-md hover:shadow-lg">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-hHGA5dR6SOq4wVoOSxhF9FlhW_KfFr89zpbfCrCMiA&s" alt="" className="h-16 " />
+                <div>
+                <p className="text-center font-bold hidden sm:inline">JWT AUTH</p>
+                </div>
+        </div>
+        <div className="flex items-center justify-evenly p-4 rounded shadow-md hover:shadow-lg">
+                <img src="https://as2.ftcdn.net/v2/jpg/02/50/30/59/1000_F_250305943_sDC6la1N1fDl3bLgfLxOkQwItIodsdMb.jpg" alt="" className="h-16 " />
+                <div>
+                <p className="text-center font-bold hidden sm:inline">GITHUB</p>
+                </div>
+        </div> */}
