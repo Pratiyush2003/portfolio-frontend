@@ -1,5 +1,6 @@
 import React, { useContext, useEffect } from "react";
 import Mycontext from "../context/Mycontext";
+import Loader from "./Loader";
 
 const Projects = () => {
   const context = useContext(Mycontext);
@@ -8,6 +9,10 @@ const Projects = () => {
   useEffect(() => {
     fetchProjects();
   }, []);
+
+  if(allProjects.length === 0){
+    return <Loader/>
+  }
 
   return (
     <>
