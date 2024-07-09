@@ -1,5 +1,7 @@
 import React, { useContext, useEffect } from "react";
 import Mycontext from "../context/Mycontext";
+import Loader from "./Loader";
+
 
 const Skills = () => {
   const context = useContext(Mycontext);
@@ -8,6 +10,10 @@ const Skills = () => {
   useEffect(() => {
     fetchSkills();
   }, []);
+
+  if(allSkills.length === 0){
+    return <Loader/>
+  }
 
   return (
     <div id="js_skills">
