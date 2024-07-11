@@ -53,7 +53,7 @@ const Navbar = () => {
       </ul>
       <ul
         className={`fixed top-20 h-full bg-[black] w-full md:hidden duration-300 
-        {/* ${toggle ? "right-[0%]" : "right-[100%]"} */}  text-center`}
+        {/* ${toggle ? "right-[0%]" : "right-[100%]"} */}  `}
       >
         <li className="p-4 text-white hover:bg-white hover:text-black m-4 rounded-md">
           <a href="#js_about" onClick={() => setToggle(!toggle)}>
