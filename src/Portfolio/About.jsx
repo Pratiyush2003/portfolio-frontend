@@ -24,8 +24,8 @@ const About = () => {
             <div className="h-30 w-80 border-2 border-[black] m-2 text-center rounded-lg p-8">
               <i className="bi bi-award-fill text-2xl"></i>
               <p className="font-bold text-xl">Experience</p>
-              <p className="text-gray-800 ">3 Months</p>
-              <p className="text-gray-800 ">Frontend Development Internship</p>
+              <p className="text-gray-800 ">6 Months</p>
+              <p className="text-gray-800 ">React Js Internship</p>
             </div>
 
             <div className="h-30 w-80 border-2 border-[black] m-2 text-center rounded-lg  p-8">
