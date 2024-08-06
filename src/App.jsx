@@ -5,6 +5,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Navbar from './Portfolio/Navbar';
 import Dashboard from './Portfolio/Dashboard';
 import MyState from './context/MyState';
+import './App.css'
 
 const App = () => {
   return (

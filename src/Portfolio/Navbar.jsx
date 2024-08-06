@@ -21,7 +21,9 @@ const Navbar = () => {
       }`}
     >
       <Link to="/">
-        <h1 className="text-2xl mt-2 mb-4  md:mb-0 text-4xl">Pratiyush</h1>
+        <h3 className="text-2xl mt-2 mb-4  md:mb-0 text-4xl font-bold">
+            Pratiyush
+        </h3>
       </Link>
 
       {/* <i className=" md:hidden bi bi-list mt-4" ></i> */}
@@ -39,16 +41,36 @@ const Navbar = () => {
       </div>
       <ul className="hidden md:flex justify-between justify-items-center text-2xl">
         <li className="p-4 hidden md:flex ">
-          <a href="#js_about">About</a>
+          <a href="#js_about">
+            <button className="relative group font-extrabold uppercase text-[18px] text-[black] transition-colors duration-400 ease-[cubic-bezier(0.25,0.8,0.25,1)] hover:text-black focus:text-black cursor-pointer">
+              About
+              <span className="absolute bottom-[-2px] left-1/2 w-0 h-[2px] bg-black transition-all duration-400 ease-[cubic-bezier(0.25,0.8,0.25,1)] group-hover:w-full group-hover:left-0"></span>
+            </button>
+          </a>
         </li>
         <li className="p-4 hidden md:flex ">
-          <a href="#js_skills">Skills</a>
+          <a href="#js_skills">
+            <button className="relative group font-extrabold uppercase text-[18px] text-[black] transition-colors duration-400 ease-[cubic-bezier(0.25,0.8,0.25,1)] hover:text-black focus:text-black cursor-pointer">
+              Skills
+              <span className="absolute bottom-[-2px] left-1/2 w-0 h-[2px] bg-black transition-all duration-400 ease-[cubic-bezier(0.25,0.8,0.25,1)] group-hover:w-full group-hover:left-0"></span>
+            </button>
+          </a>
         </li>
         <li className="p-4 hidden md:flex ">
-          <a href="#js_Project">Project</a>
+          <a href="#js_Project">
+            <button className="relative group font-extrabold uppercase text-[18px] text-[black] transition-colors duration-400 ease-[cubic-bezier(0.25,0.8,0.25,1)] hover:text-black focus:text-black cursor-pointer">
+              Project
+              <span className="absolute bottom-[-2px] left-1/2 w-0 h-[2px] bg-black transition-all duration-400 ease-[cubic-bezier(0.25,0.8,0.25,1)] group-hover:w-full group-hover:left-0"></span>
+            </button>
+          </a>
         </li>
         <li className="p-4 hidden md:flex ">
-          <a href="#js_Contact">Contact</a>
+          <a href="#js_Contact">
+            <button className="relative group font-extrabold uppercase text-[18px] text-[black] transition-colors duration-400 ease-[cubic-bezier(0.25,0.8,0.25,1)] hover:text-black focus:text-black cursor-pointer">
+              Contact
+              <span className="absolute bottom-[-2px] left-1/2 w-0 h-[2px] bg-black transition-all duration-400 ease-[cubic-bezier(0.25,0.8,0.25,1)] group-hover:w-full group-hover:left-0"></span>
+            </button>
+          </a>
         </li>
       </ul>
       <ul
